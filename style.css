@@ -239,15 +239,7 @@ main {
   top: -58px;
 }
 
-/* .icon svg {
-  width: 20px;
-  height: 20px;
-  border: solid 2px transparent;
-  display: flex;
-}
-.button:hover .icon svg {
-  border: solid 2px #ffffff;
-} */
+
 .padding-left {
   position: absolute;
   width: 20px;
